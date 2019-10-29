@@ -486,5 +486,4 @@ def face_attribute():
 
 
 if __name__ == '__main__':
-    # app.run(host='192.168.1.2', port=9090, debug=True)
-    app.run(host='172.18.134.4', port=5000, debug=True)
+    app.run(host='127.0.0.1', port=5000, debug=True)
