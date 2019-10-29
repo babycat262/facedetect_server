@@ -1,0 +1,10 @@
+#pyc
+*.pyc
+
+#idea
+.idea/
+/idea/
+
+#temp file
+*.catch
+
